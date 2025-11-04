@@ -1,1 +1,1 @@
-# Entwurf VibeCoding
+# Entwurf - Vibe coding
